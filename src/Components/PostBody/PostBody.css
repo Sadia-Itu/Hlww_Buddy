@@ -1,0 +1,7 @@
+.post-box{
+    background-color: palevioletred ;
+    height: '20vh' ;
+    padding:'5%' ;
+    margin-top:'8px' ;
+    flex: '1';
+}
